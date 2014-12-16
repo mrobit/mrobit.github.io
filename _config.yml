@@ -2,7 +2,9 @@
 title: Matt Robitaille | Web Designer / Developer
 email: matthew@robitaille.io
 description: > # this means to ignore newlines until "baseurl:" 
-  Web designer and developer based in Maine. Working for <a href="//anchour.com" target="_blank">Anchour</a>
+  Web designer and PHP/Javascript developer based in Maine.
+footer_description: >
+  Web designer and PHP/Javascript developer based in Maine. Lead web developer for <a href="//anchour.com" target="_blank">Anchour</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.robitaille.io" # the base hostname & protocol for your site
 twitter_username: merthh
